@@ -1,0 +1,30 @@
+.namePage {
+    margin-top:10px;
+    margin-left: -10px;
+    width: 61%;
+    float: left;
+    height: 10%;
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+    color: #7f63ef;
+  }
+
+  .pageLogo {
+    width: 40%;
+    float: left;
+    height: 80%;
+    text-decoration: none;
+    align-content: center;
+  }
+
+
+  .pagemenu{
+    margin-top: -100px;
+    margin-left: 600px;
+    float: right;
+  }
+
+  
+
+  
